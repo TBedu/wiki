@@ -21,6 +21,13 @@ const vitePressOptions = {
     sidebarMenuLabel: "菜单",
     returnToTopLabel: "返回页首",
     langMenuLabel: "切换语言",
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
     logo: 'https://www.helloimg.com/i/2025/02/04/67a1b57ed66de.png',
     nav: [
       { text: '主页', link: '/' },
