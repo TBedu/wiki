@@ -4,8 +4,6 @@ order: 0
 
 # 介绍
 
-![last-commit](https://img.shields.io/github/last-commit/TBedu/wiki?label=%E6%9C%80%E5%90%8E%E6%8F%90%E4%BA%A4)
-
 欢迎来到 X_Star 服务器！
 
 ## 简介
