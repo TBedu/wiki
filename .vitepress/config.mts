@@ -11,7 +11,7 @@ const vitePressOptions = {
   ],
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://docs.tbedu.top'
+    hostname: 'https://wiki.tbedu.top'
   },
   themeConfig: {
     // Theme related configurations.
@@ -35,7 +35,7 @@ const vitePressOptions = {
       { text: '服务', link: '/service/' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TBedu/' }
+      { icon: 'github', link: 'https://github.com/TBedu/wiki' }
     ],
     footer: {
       message: '根据 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans" target="_blank">CC BY-SA 4.0</a> 发布。',
