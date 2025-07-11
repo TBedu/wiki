@@ -13,7 +13,7 @@ order: 0
 
 ## 开始
 
-- **加入社群：** 点击 [这里](../group/) 加入我们的社群，与其他玩家交流心得，分享游戏乐趣。
+- **加入交流社区：** 点击 [这里](../group/) 加入我们的交流社区，与其他玩家交流心得，分享游戏乐趣。
 - **阅读进服指南：** 在加入服务器之前，建议你先阅读我们的 [进服指南](../tech/guide/) ，以便更快地熟悉服务器的规则和玩法。
 
 <Badge type="tip" text="Java" /> **服务器地址：**  
@@ -36,10 +36,10 @@ mc.tbedu.top
 ### 原版城建 <Badge type="tip" text="Purpur 1.21.4" /> 
 跨版本支持：1.7 - 1.21.6
 
-### 起床战争 <Badge type="danger" text="停止开放" />
-跨版本支持：N/A
+### 小游戏 <Badge type="tip" text="Fabric 1.21.5" />
+游戏版本：1.21.5
 
-### 小游戏 <Badge type="danger" text="停止开放" />
+### 起床战争 <Badge type="danger" text="停止开放" />
 游戏版本：N/A
 
 ### 机械动力 <Badge type="danger" text="停止开放" />

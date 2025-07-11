@@ -1,8 +1,14 @@
 ---
-order: 0
+order: 1
 ---
 
 # 技术参考
+
+::: warning
+本页内容仅供参考
+:::
+
+更新时间：2025-07-11
 
 ## 服务器资源
 
@@ -16,72 +22,45 @@ POS: Chengdu Sichuan
 
 ## 插件列表
 
-### 粘液生存
+::: warning
+此处列举的插件信息可能存在过时情况，建议加入官方交流社区（[链接](../../group/)）获取最新的技术支持和插件更新动态。
+:::
 
-- **AuraSkills**: 提供角色技能系统，可能包括技能树、属性增强等功能。
-- **BlockLocker**: 用于保护方块（如箱子、熔炉等），防止其他玩家访问或破坏。
-- **BlueMap**: 提供实时的地图服务，支持动态地图显示和探索。
-- **Chunky**: 用于生成高质量的服务器地图快照，方便展示和分享。
-- **clickaccept**: 简化玩家交互（如点击接受交易或权限）。
-- **CMILib**: 提供颜色和消息格式化工具，增强聊天和命令输出的可读性。
-- **ColoredEnderChests**: 允许玩家自定义末影箱的颜色。
-- **CoreProtect**: 提供方块和物品的日志记录和恢复功能，方便管理员回滚破坏。
-- **ctLib**: 一个工具库插件，可能为其他插件提供基础功能。
-- **DyedBackpacks**: 提供可染色的背包物品，增加存储选项。
-- **EcoPower**: 管理经济系统中的电力或能量机制，可能与能源相关。
-- **ElectricSpawners**: 提供可充电或电力驱动的刷怪笼功能。
-- **Essentials**: 提供基础的服务器管理功能，如传送、聊天、经济等。
-- **EssentialsChat**: 增强聊天功能，支持聊天格式、过滤和管理。
-- **EssentialsGeoIP**: 提供玩家地理位置查询功能。
-- **EssentialsWarpGUI**: 提供传送点管理的图形界面。
-- **ExoticGarden**: 添加装饰性植物或花园相关的内容。
-- **ExtraGear**: 提供额外的装备或物品，扩展玩家的装备选择。
-- **ExtraHeads**: 添加更多玩家头颅或骷髅头物品。
-- **GrimAC**: 反作弊插件，检测和防止玩家使用外挂。
-- **GSit**: 允许玩家在方块上坐下，提供更丰富的交互体验。
-- **GuizhanLibPlugin**: 一个工具库插件，可能为其他插件提供基础功能。
-- **HardcoreSlimefun**: 提供硬核版本的 Slimefun 插件，增加挑战性。
-- **HotbarPets**: 允许玩家在热键栏上放置宠物，增加趣味性。
-- **InfinityExpansion**: 扩展物品或机制，可能与无限物品或特殊功能相关。
-- **InvSeePlusPlus**: 允许管理员查看和管理玩家的物品栏。
-- **IronElevators**: 提供铁质电梯功能，方便垂直移动。
-- **LiteBans**: 提供轻量级的封禁系统，支持玩家封禁和管理。
-- **LiteXpansion**: 扩展 LiteBans 或其他插件的功能。
-- **LuckPerms**: 提供高级权限管理系统，支持复杂的权限配置。
-- **MobCapturer**: 允许玩家捕捉和生成怪物。
-- **Networks**: 提供网络或电路系统，支持复杂的红石机制。
-- **NoChatReports**: 禁用聊天报告功能，保护玩家隐私。
-- **packetevents**: 提供网络数据包处理功能，可能用于优化或反作弊。
-- **PlaceholderAPI**: 提供占位符系统，支持动态文本替换。
-- **Plan**: 提供服务器看板功能。
-- **PlayerReport**: 允许玩家举报其他玩家的行为。
-- **PrivateStorage**: 提供私人存储解决方案，保护玩家物品。
-- **ProtocolLib**: 提供协议层的工具，支持自定义数据包处理。
-- **qsaddon-bluemap**: 为 BlueMap 提供额外功能或集成。
-- **qsaddon-list**: 提供列表相关的功能或扩展。
-- **qscompat-residence**: 为 Residence 插件提供兼容性支持。
-- **qscompat-worldedit**: 为 WorldEdit 插件提供兼容性支持。
-- **qscompat-worldguard**: 为 WorldGuard 插件提供兼容性支持。
-- **QuickShop-Hikari**: 提供快速商店功能，支持经济交易。
-- **Residence**: 提供领地管理功能，支持玩家创建和保护领地。
-- **SkinsRestorer**: 允许玩家自定义皮肤，支持动态皮肤切换。
-- **Slimefun**: 提供高科技和模组化的内容，扩展游戏玩法。
-- **SlimefunLuckyBlocks**: 添加幸运方块机制，增加随机性和趣味性。
-- **SlimefunOreChunks**: 提供特殊的矿石生成机制，扩展资源获取。
-- **SlimeGlue**: 提供 Slimefun 插件的扩展或优化功能。
-- **SlimyTreeTaps**: 提供树木相关的机制，可能与资源收集相关。
-- **SoulJars**: 允许玩家捕捉实体并存储在罐子中。
-- **Vault**: 提供经济、权限和聊天的API接口，支持插件集成。
-- **ViaBackwards**: 提供版本兼容功能，支持旧版本客户端连接。
-- **ViaRewind**: 提供版本兼容功能，支持旧版本客户端连接。
-- **ViaVersion**: 提供版本兼容功能，支持新版本客户端连接。
-- **WorldEdit**: 提供强大的地形编辑工具，支持快速修改世界。
-- **WorldEditSUI**: 提供 WorldEdit 的图形用户界面。
-- **WorldGuard**: 提供区域保护功能，支持自定义规则。
-- **XConomy**: 提供经济系统，支持货币交易和管理。
-- **XinxinAutoReview**: 自动审核QQ群申请。
-- **XinxinBetterBind**: 提供改进的绑定功能。
-- **XinxinBotApi**: 提供机器人API，支持自动化功能。
-- **XinxinBotInfo**: 提供机器人信息查询功能。
-- **XinxinChatSync**: 同步聊天功能，支持跨服聊天。
-- **XinxinCustomMessage**: 提供自定义消息功能，支持动态文本。
+### 原版生存
+
+| 名称 | 类型 | 用途 |
+|------|------|------|
+| AuraSkills | 技能系统 | 提供角色技能系统，包括技能树、属性增强和多样化技能效果。 |
+| AutoViaUpdater | 跨版本支持 | 自动更新Via系列插件，确保版本兼容性和安全性。 |
+| BlockLocker | 安全保护 | 保护箱子、熔炉等容器，支持密码、权限管理和防破坏功能。 |
+| CMILib | 工具库 | 提供颜色格式化、消息处理等基础工具库，支持其他插件功能扩展。 |
+| CoreProtect | 管理工具 | 方块操作日志系统，支持回滚 griefing行为和物品恢复。 |
+| DecentHolograms | 可视化工具 | 创建自定义全息文本显示，支持动态内容和交互功能。 |
+| EasyBot | 机器人助手 | 提供机器人助手功能，支持群服互通和服务器管理。 |
+| Essentials | 核心管理 | 核心管理插件，提供传送、经济、聊天和基础命令集。 |
+| EssentialsWarpGUI | 传送系统 | 图形化传送点管理界面，简化玩家快速旅行操作。 |
+| floodgate | 跨平台支持 | 支持跨平台玩家登录，实现Java版与基岩版玩家互通。 |
+| GSit | 角色扮演 | 允许玩家在方块上坐下、躺下等姿势互动，增强角色扮演体验。 |
+| InvSeePlusPlus | 管理工具 | 管理员工具，支持查看/编辑其他玩家背包、末影箱和装备。 |
+| InvSeePlusPlus_Clear | 管理工具 | InvSeePlusPlus扩展，快速清空玩家物品栏功能。 |
+| InvSeePlusPlus_Give | 管理工具 | InvSeePlusPlus扩展，向玩家物品栏添加物品功能。 |
+| IronElevators | 世界功能 | 铁质电梯方块，实现快速垂直移动，支持多楼层配置。 |
+| LagFixer | 性能优化 | 优化服务器性能，减少卡顿和延迟问题。 |
+| LuckPerms | 权限管理 | 高级权限管理系统，支持复杂权限节点配置和继承体系。 |
+| NoChatReports | 聊天安全 | 禁用Minecraft聊天举报功能，保护玩家聊天隐私。 |
+| packetevents | 工具库 | 网络数据包处理库，支持协议分析和自定义数据包拦截。 |
+| PlaceholderAPI | 工具库 | 动态文本占位符系统，支持插件间数据共享和显示。 |
+| ProtocolLib | 工具库 | 协议层API，允许插件修改和处理Minecraft网络协议。 |
+| PurpurExtras | 性能优化 | Purpur服务器专属扩展，提供额外性能优化和功能增强。 |
+| QuickShop-Hikari | 经济系统 | 轻量级经济商店插件，支持玩家间物品交易和货币系统。 |
+| Residence | 领地管理 | 领地管理插件，允许玩家购买、保护和管理私人领地。 |
+| ResourceWorld | 世界管理 | 资源世界管理系统，支持自动重置和资源再生配置。 |
+| SkinsRestorer | 玩家外观 | 皮肤管理工具，支持离线模式皮肤设置和皮肤历史记录。 |
+| TrChat | 聊天系统 | 高级聊天系统，支持聊天频道、格式美化和防刷屏功能。 |
+| Vault | 经济接口 | 经济和权限API桥梁，实现不同插件间的功能互通。 |
+| ViaBackwards | 跨版本支持 | 版本兼容插件，允许低版本客户端连接高版本服务器。 |
+| ViaRewind | 跨版本支持 | ViaVersion扩展，支持更早期版本（1.8-1.12）客户端连接。 |
+| ViaVersion | 跨版本支持 | 跨版本兼容核心插件，实现不同版本客户端与服务器互通。 |
+| voicechat | 语音聊天 | 语音聊天系统，支持玩家间实时语音交流。 |
+| WorldEdit | 世界编辑 | 高级地形编辑工具，支持选区操作、复制粘贴和批量修改。 |
+| XConomy | 经济系统 | 轻量级经济插件，提供货币管理、交易和经济数据统计功能。 |
